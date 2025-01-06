@@ -1,7 +1,7 @@
 ## Aziiiii (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
 
    ⋅•⋅⋅•⋅⊰⋅•⋅.⋅•⋅-⋅•⋅⋅•⋅∙∘☽༓☾∘∙•⋅⋅⋅•⋅⋅-⋅•⋅.⋅•⋅⊰⋅•⋅⋅•⋅
-  <br>**`Artfulcreative (Author/Gamer/Student)`**</br>
+  <br>**`Creative Writer`**</br>
   
 <body>
 <br>
