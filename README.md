@@ -2,7 +2,7 @@
 </head>
 <body>
   <h1 align="center">Azie's Introduction</h1>
-    <img align="center" alt="Gif" width="900" border_color=2c1971 width="150" height="250" padding="100" src="https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952bf0hsh4mlhow2wnseiuthzhxh5skw6t9h021226y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=gal_gif_by_id&rid=giphy.gif&ct=g659f645.gifv" AriSpace on Reddit>
+    <img align="center" alt="Gif" width="900" border_color=2c1971 width="150" height="250" padding="100" src="https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952bf0hsh4mlhow2wnseiuthzhxh5skw6t9h021226y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=gal_gif_by_id&rid=giphy.gif&ct=g659f645.gifv" AriSpaceExplorer on Reddit>
   <p align="center">
     I'm just trying to explore. I may look like an idiot right now doing and pressing a lot of stuff, but I'm trying to familiarize every feature GitHub has. I would ask for help, but right now I'd prefer to learn on my own by exploring stuff.
   </p>
