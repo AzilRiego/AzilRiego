@@ -1,20 +1,18 @@
 ## Aziiiii (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
-  <img align="right" alt="coding" width="400" border_color=2c1971 width="150" height="250" padding="100" src="https://media0.giphy.com/media/6GazCZqvW67VPN5SEd/giphy.gif?cid=6c09b952suli6a16554mc1r6p2zpgnocc0h2a4bitpzvchia&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g659f645.gifv" v78 on Reddit>
+  <img align="right" alt="coding" width="400" border_color=2c1971 width="150" height="250" padding="100" src="https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=6c09b952bf0hsh4mlhow2wnseiuthzhxh5skw6t9h021226y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=gal_gif_by_id&rid=giphy.gif&ct=g659f645.gifv" AriSpace on Reddit>
   
  
 <body>
 <br>
    
    <p>
-     Azil has joined the server.</br>
+     <b> Server:</b> Azil has joined the server.</br>
+    </br>
+     "Despite everything...</br>
+     ...</br>
+     It's still you."</br>
      </br>
-     Howdy...</br>
-     Come sit beside me for a while.</br>
-     Let's enjoy the sunset until the night had finally come.</br>
-     ...</br>
-     I like the warm kiss of the sun as it says goodbye.</br>
-     ...</br>
-     Would you like to see my works?</br>
+     <b>-Toby Fox</b>
    </p>
 
 ---
