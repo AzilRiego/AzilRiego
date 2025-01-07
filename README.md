@@ -6,7 +6,7 @@
   <p align="center">
     I'm just trying to explore. I may look like an idiot right now doing and pressing a lot of stuff, but I'm trying to familiarize every feature GitHub has. I would ask for help, but right now I'd prefer to learn on my own by exploring stuff.
   </p>
-  <h3>About</h3>
+  <h3>About Me</h3>
   <p>
     I started out as a budding writer. It is my goal to write a book with a captivating premise that will capture the attention of readers. But one day I stumbled into a road where I learned about the potential of using words that function as orders to create through technology. I discovered that "coding" allowed me to use a set of words to make something come to life. It is extremely complex, though, because even though coding may involve words, creating a thousand lines of code is not as easy as writing a thousand words of chapter. Understanding such a coded language requires me to code myself, therefore I choose to learn more about the world of coding in order to become acquainted with programming.
   </p>
