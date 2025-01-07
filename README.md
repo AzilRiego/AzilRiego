@@ -23,7 +23,7 @@
 <hr>
   <p align="center">Made with confusion and "what does this button do?" by Azie</p>
   <p align="center">
-    <img src="https://media2.giphy.com/media/vrEHd9Hslqous/giphy.gif?cid=6c09b952o68egcagm7kwuoe4b1djjbejn297nfrco96iz4ud&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Gif">
+    <img align="center" alt="Gif" width="150" border_color=2c1971 width="50" height="100" padding="100" src="https://media2.giphy.com/media/vrEHd9Hslqous/giphy.gif?cid=6c09b952o68egcagm7kwuoe4b1djjbejn297nfrco96iz4ud&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Gif">
   </p>
 </body>
 </html>
