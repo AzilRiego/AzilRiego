@@ -28,6 +28,8 @@
 </body>
 </html>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+does+this+button+do?;Quack!;Angelica+G.+Aquilato;Write+Write+Write+Write+;Code+Code+Code+Code+Code;)](https://git.io/typing-svg)
+
 
 
 
