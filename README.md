@@ -22,7 +22,7 @@
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzilRiego&bg_color=140335&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/AzilRiego/github-readme-activity-graph)
 
 <hr>
-  <p align="center">Made with confusion and "what does this button do?" by Azie</p>
+  <p align="center">Made with confusion and "what does this button do?" by Nhevaris Veyne</p>
   <p align="center">
     <img align="center" alt="Gif" width="150" border_color=2c1971 width="50" height="100" padding="100" src="https://media2.giphy.com/media/vrEHd9Hslqous/giphy.gif?cid=6c09b952o68egcagm7kwuoe4b1djjbejn297nfrco96iz4ud&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Gif">
   </p>
